@@ -20,4 +20,4 @@ Olá! Meu nome é Lucas, sou graduado em Direito pela Universidade de Brasília,
 **Contato**
 
 * [LinkedIn](https://www.linkedin.com/in/lucas-martins-de-andrade-64043724/)
-* [Gmail](lucasmart19@gmail.com)
+* [Gmail](mailto:lucasmart19@gmail.com)
