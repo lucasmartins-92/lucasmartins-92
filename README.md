@@ -8,14 +8,8 @@ Olá! Meu nome é Lucas, sou graduado em Direito pela Universidade de Brasília,
 
 **Tecnologias**
 
-* Python, C, SQLite3, MySQL
+* Python (+Flask), C, SQLite3, MySQL, HTML, CSS, JavaScript
 * Pycharm, Visual Studio Code, MySQL Server
-
-**Projetos**
-
-* GameDB
-  * Um projeto construído utilizando Python e SQLite3, bem como a [API do IGDB](https://www.igdb.com/api). Inspirado na funcionalidade do [Backloggd](backloggd.com), um site no estilo do Letterboxd, em que usuários podem pesquisar jogos eletrônicos e montar seu próprio catálogo, com avaliações e anotação de informações em geral sobre sua experiência.
-  * Primeira versão em breve.
 
 **Contato**
 
