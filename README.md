@@ -2,12 +2,15 @@
 
 ## Oie 👋
 
-Olá! Meu nome é Lucas, sou graduado em Direito pela Universidade de Brasília, e atualmente busco novas oportunidades de carreira. Estou cursando Ciência da Computação no Centro Universitário de Brasília, a área que sempre foi minha grande paixão desde a infância. Sou fascinado pelo funcionamento interno de programas e equipamentos em geral, em especial algoritmos e otimização de código, e busco atuar futuramente como developer de backend, ou possivelmente com análise de dados.
+Olá! Meu nome é Lucas. Sou estudante de Ciência da Computação no Centro Universitário de Brasília (UniCEUB). Sou também graduado em Direito pela Universidade de Brasília, e atualmente estou em transição de carreira para a área de tecnologia, uma paixão de infância que finalmente decidi transformar em profissão.
+
+Tenho particular interesse por back-end development e análise de dados, com foco em entender o funcionamento interno de sistemas, algoritmos e otimização de código.
+
+Sigo ampliando meus conhecimentos com foco em desenvolvimento limpo e boas práticas de engenharia de software.
 
 **Tecnologias**
 
-* Python (+Flask), C, SQLite3, MySQL, HTML, CSS, JavaScript
-* Pycharm, Visual Studio Code, MySQL Server
+* Python, Java, SQLite3, MySQL, HTML, CSS, JavaScript
 
 **Contato**
 
